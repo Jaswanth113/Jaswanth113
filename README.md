@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>👋 Hi, I'm Jaswanth</h1>
+  <h1>👋 Hi, I'm Jaswanth Tikkireddy</h1>
   
   <h3>AI Engineer &nbsp;·&nbsp; Backend Engineer &nbsp;·&nbsp; RAG & Agentic Systems</h3>
 
