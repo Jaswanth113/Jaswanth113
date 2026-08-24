@@ -9,14 +9,14 @@
     <strong>Advanced RAG, retrieval systems, regulatory AI, agentic systems, and backend architecture.</strong>
   </p>
 
-  <p>
-    <a href="https://github.com/Jaswanth113">
-      <img 
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Production+AI+Systems;Advanced+RAG+%7C+Hybrid+Retrieval+%7C+Reranking;Legal+RAG+%7C+Regulatory+AI+%7C+Compliance;Multi-Vector+Retrieval+%7C+Search+Systems;Context+Engineering+%7C+LLM+Optimization;Agentic+AI+%7C+MCP+%7C+Agent+Harnesses;Python+%7C+FastAPI+%7C+Backend+Architecture" 
-        alt="Jaswanth — AI Engineer | Building Production AI Systems | Advanced RAG | Regulatory AI | Multi-Vector Retrieval | Agentic AI | FastAPI Backend Architecture"
-      />
-    </a>
-  </p>
+<p>
+  <a href="https://github.com/Jaswanth113">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Production+AI+Systems;Advanced+RAG+%7C+Hybrid+Retrieval;Legal+RAG+%7C+Regulatory+AI+%7C+Compliance;Multi-Vector+Retrieval+%7C+Search+Systems;Agentic+RAG+%7C+Context+Engineering;Agentic+AI+%7C+MCP+%7C+Agent+Harnesses;Designing+Systems+for+Scale+%7C+Reliability+%7C+Cost;Python+%7C+FastAPI+%7C+Backend+Architecture"
+      alt="Jaswanth — AI Engineer | Production AI Systems | Advanced RAG | Agentic RAG | Regulatory AI | Retrieval | Agentic AI | Backend Architecture"
+    />
+  </a>
+</p>
 
   <p>
     <a href="https://www.linkedin.com/in/jaswanth-t-981214251/" target="_blank" rel="me" title="Jaswanth on LinkedIn">
@@ -103,7 +103,7 @@ The system is built to move beyond generic vector similarity by combining **stru
 ---
 
 ### 💳 Payment Infrastructure
-*Independently built the Razorpay payment backend from scratch.*
+*Independently built the Razorpay payment backend.*
 
 Designed the payment system around **secure processing, transaction consistency, and failure recovery** for a production environment.
 
@@ -125,7 +125,7 @@ Designed the payment system around **secure processing, transaction consistency,
 ---
 
 ### 🤖 Agent Harness
-*Contributed to building an agent harness from scratch.*
+*Contributed to building an agent harness.*
 
 * Worked on the **agent execution flow, skill discovery/retrieval, tool usage, and context flow**
 * Contributed design ideas around **how agents discover and select skills/tools**, with some of those ideas adopted into product development
@@ -244,7 +244,7 @@ I use AI tools as development assistance, while keeping the **architecture, syst
 
 <div align="center">
 
-  <h3><em>Building AI systems from first principles.</em></h3>
+  <h3><em>Build from first principles. Build for scale.</em></h3>
 
   <a href="https://github.com/Jaswanth113">
     <img src="https://komarev.com/ghpvc/?username=Jaswanth113&style=for-the-badge&color=58A6FF" alt="Profile Views" />
